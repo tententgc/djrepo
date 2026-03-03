@@ -30,7 +30,8 @@ jobs:
       run:
 
         working-directory: ./frontend
-            steps:
+
+steps:
 
     - uses: actions/checkout@v4
 
